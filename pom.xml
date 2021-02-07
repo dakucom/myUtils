@@ -6,7 +6,8 @@
     <!--子依赖-->
     <modules>
         <module>excel-hutool</module>
-        <module>excel-hutool</module>
+        <module>easyexcel</module>
+        <module>common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
